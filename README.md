@@ -1,0 +1,1 @@
+# WDM-Ex-NO-8-Web-Scraping-On-e-commerce-platform-using-BeautifulSoup
